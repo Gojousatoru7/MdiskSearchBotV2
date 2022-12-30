@@ -10,7 +10,7 @@ class Config(object):
     BOT_TOKEN = os.getenv("BOT_TOKEN", "5930820083:AAE4h2XGFYGhZd2tFFtCPSYtlHa06jNSHdc")
     BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "mdiskprobot")
     USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "1BVtsOIMBu2BMyYLif4AWy9jIMeNDaYAm1hL44IzzYXBFavVJXiQzRlWaXXrsYoQOrO_p2AKfGXg_fMFcKFV9xU6Y13oxQOd_sqdv510CX31-zvHWdAe2yA3DfxjypEPqDbZqggpC1HziggsiBRZwkx_zxgl83Mi48W-VwgQzTe3VLpkfnjRHFQor7_o-YtDxPXy7yTJgVc1teAjwDANURzjb9rOzUigtvcqbqFKEbrc3JREC7HUYZ3LyvrE_-cNEeKONTgklbHLYz6UkTM0K_pG6Y_0lhRDK6HdqNSFi4mmmtX43zKS03GwuPHgcAo2D_6JloDyn-pu4Y6KYzrsfGxrMWtLdUTU=")
-    CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001702193108")) 
+    CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001770137921")) 
     BOT_USERNAME = os.getenv("BOT_USERNAME", "Mdisk search bot")
     BOT_OWNER = int(os.getenv("BOT_OWNER", "2007408537"))
 #    OWNER_USERNAME = os.getenv("OWNER_USERNAME", "gojouuchiha")
@@ -37,7 +37,7 @@ Jᴜsᴛ Tʏᴘᴇ ᴀ Mᴏᴠɪᴇ Nᴀᴍᴇ 🎬**""" )
     UPDATES_CHANNEL_USERNAME = os.getenv("UPDATES_CHANNEL_USERNAME", "premium_backdown")
     FORCE_SUB = os.getenv("FORCE_SUB", "False")
     AUTO_DELETE_TIME = int(os.getenv("AUTO_DELETE_TIME", 180))
-    MDISK_API = os.getenv("MDISK_API", "Qu7jX9V0Sn3q1JHdxjPp")
+    MDISK_API = os.getenv("MDISK_API", "bMOAZEv45I2NBbkbt1wx")
     VERIFIED_TIME  = int(os.getenv("VERIFIED_TIME", "31"))
     ABOUT_BOT_TEXT = os.getenv("ABOUT_TEXT", """I ᴏɴʟʏ ꜱʜᴀʀᴇ ᴛʜᴇ ᴘᴏꜱᴛ ꜰʀᴏᴍ ᴘᴇᴏᴘʟᴇ'ꜱ ᴄʜᴀɴɴᴇʟ! 
 
